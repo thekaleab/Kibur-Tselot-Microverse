@@ -1,0 +1,5 @@
+img {
+   max-width: max-content; 
+   display: block;
+   margin: 0 auto;
+}
